@@ -1,0 +1,19 @@
+{
+  "name": "contact-list-terminal-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js",
+    "taha": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "taha kasramehr",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.42",
+    "chalk": "^4.0.0",
+    "yargs": "^17.5.1"
+  }
+}
